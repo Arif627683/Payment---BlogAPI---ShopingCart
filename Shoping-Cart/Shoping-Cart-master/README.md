@@ -1,6 +1,6 @@
 # Shoping
 
-Hey and welcome to this Python Django tutorial series. My name is Prosenjit Kumar 
+Hey and welcome to this Python Django tutorial series. My name is Arifuzzaman 
 and I will be taking you through the various aspect of building a shopping cart application using Django 2.1.3
 web framework and Python 3.7.1 
 
